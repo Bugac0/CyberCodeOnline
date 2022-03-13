@@ -1013,11 +1013,11 @@
  	 	},
  	 	"ammo1": {
  	 	 	"name": {
- 	 	 	 	"trans": "能量電池",
+ 	 	 	 	"trans": "虧皮能量",
  	 	 	 	"eng": "Energy Cell"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "便攜式能量裝置，可用作特殊武器的消耗型彈藥",
+ 	 	 	 	"trans": "便攜式能量裝置，可用作特殊武器的消耗型彈藥，據說是某位叫虧皮的人發明出來的",
  	 	 	 	"eng": "Portable energy storage device, it can be used as consumable ammo for your Special Weapons"
  	 	 	}
  	 	},
